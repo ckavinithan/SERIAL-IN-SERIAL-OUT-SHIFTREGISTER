@@ -41,5 +41,6 @@ Developed by:C.KAVINITHAN RegisterNumber:25011970
 
 **RESULTS**
 ![rtl viewer ex10](https://github.com/user-attachments/assets/9f34573f-3df3-49a7-bfa1-0a9964eae99d)
-![rtl viewer ex10](https://github.com/user-attachments/assets/5b0a57a6-f2c5-43ab-aa14-c30dd2448545)
+![waveform ex10](https://github.com/user-attachments/assets/ac73e31c-0cca-4fa3-a97c-fd84ec99f479)
+
 
